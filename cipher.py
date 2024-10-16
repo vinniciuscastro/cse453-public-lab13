@@ -120,7 +120,7 @@ class Cipher:
         }
 
     def get_author(self):
-        return "author unknown, adapted to Python by Vinnicius Castro"
+        return "Vinnicius Castro"
 
     def get_cipher_name(self):
         return "Homophonic Substitution Cipher"
